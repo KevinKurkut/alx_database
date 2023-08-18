@@ -9,7 +9,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "alx_db",
+            "name": "alx",
             "database": "hbtn_0c_0",
             "username": "root",
             "password": "Chebiemitform3"
