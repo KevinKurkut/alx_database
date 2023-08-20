@@ -1,5 +1,5 @@
 -- Cities of California
-SELECT cities.name
+SELECT cities.name, cities.id
 FROM cities, states
 WHERE cities.state_id = states.id
 AND states.name = 'California'
