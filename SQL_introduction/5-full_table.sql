@@ -1,8 +1,2 @@
--- Full description
-CREATE TABLE IF NOT EXISTS first_table 
-(
-id iNT AUTO_INCREMENT PRIMARY KEY, 
-name VARCHAR(128) DEFAULT NULL,
-c CHAR(1) DEFAULT NULL,
-created_at DATE DEFAULT NULL
-);
+-- full description
+SHOW CREATE TABLE first_table;
